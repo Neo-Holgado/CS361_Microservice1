@@ -56,7 +56,7 @@ The response is formatted as follows:
 
 ## UML
 
-<img width="3086" height="2100" alt="image" src="https://github.com/user-attachments/assets/bd6d8fb6-f655-42e6-9785-672a5d428043" />
+<img width="3086" height="2100" alt="image" src="https://github.com/user-attachments/assets/eee77664-9f1d-4b3b-8480-c151daa4f909" />
 
 
 ## Tech Stack
